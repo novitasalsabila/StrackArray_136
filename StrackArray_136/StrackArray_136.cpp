@@ -66,4 +66,8 @@ int main() {
         string input;
         getline(cin, input);
         char ch = (input.empty() ? '0' : input[0]);
+
+        switch (ch) {
+       
+    }
 }
