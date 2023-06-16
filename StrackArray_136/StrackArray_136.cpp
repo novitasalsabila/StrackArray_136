@@ -11,3 +11,7 @@ public:
     StackArray() {
         top = -1;
     }
+    void push() {
+        
+
+    }
